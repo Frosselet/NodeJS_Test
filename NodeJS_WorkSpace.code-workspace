@@ -1,0 +1,14 @@
+{
+    "folders": [
+		{
+			"path": "/Volumes/Elements/MyGit/NodeJS_Playground"
+		},
+		{
+			"name": "NodeJS_Test",
+			"path": "."
+		}
+	],
+    "settings": {
+        "debug.internalConsoleOptions": "neverOpen"
+    }
+}
